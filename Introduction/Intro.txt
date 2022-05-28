@@ -1,0 +1,2 @@
+Yaml stands for Ain't Markup Language
+It configures data 
